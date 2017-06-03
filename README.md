@@ -1,2 +1,3 @@
 # play-ground
-test bed
+
+This project is for playing around and testing new tech
